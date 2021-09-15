@@ -1,0 +1,67 @@
+
+
+.WUR-Main-Page-UserCard-Container{
+    background: #642B73;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #C6426E, #642B73);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #C6426E, #642B73); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 15%;
+    border: goldenrod;
+    border-style: solid;
+
+}
+
+
+
+.WUR-Main-Page-UserCard-Avatars{
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+     width: 50%;
+}
+
+h2 {
+    font-size: 2.5vw;
+    background: -webkit-linear-gradient(orange, white);
+    background-clip: unset;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+li {
+    font-size: 1.5vw;
+    background: -webkit-linear-gradient(orange, white);
+    background-clip: unset;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+
+
+button {
+    padding: 1rem;
+    background-color: #d3d3d3;
+    background-image: linear-gradient(315deg, #d3d3d3 0%, #57606f 74%);
+    
+    border-radius: 10%;
+    color: black;
+    align-items: center;
+    margin-right: 250px;
+    top: 70vh;
+    right: 5vh;
+
+}
+
+
+button:hover:active {
+    background: #CB356B;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #BD3F32, #CB356B);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #BD3F32, #CB356B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 1rem;
+    color: white;
+    border-radius: 10%;
+    align-items: center;
+    top: 70vh;
+  }

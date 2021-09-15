@@ -1,0 +1,45 @@
+
+
+
+h4 {
+    font-size: 2.5vw;
+  background: -webkit-linear-gradient(orange, white);
+  background-clip: unset;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+li {
+     text-align: center;
+ }
+
+ .WUR-LeaderBoard-Info{
+     text-align: center;
+     color: white;
+ }
+
+ .WUR-LeaderBoard-Info{
+    font-size: 2.0vw;
+  background: -webkit-linear-gradient(white, wheat);
+  background-clip: unset;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ }
+
+em {
+    text-align: center;
+    color: white;
+ }
+
+ img.ui.tiny.image{
+     align-items: center;
+ }
+
+
+ .WUR-LeaderBoard-Avatar{
+     align-items: center;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ }

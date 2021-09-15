@@ -1,0 +1,15 @@
+{
+  "short_name": "WuRather Game",
+  "name": "Would U Rather Game",
+  "icons": [
+    {
+      "src": "./icons/wurather-main-icon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFD700",
+  "background_color": "#ffffff"
+}

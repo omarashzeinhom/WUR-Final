@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+
+/**Typeography**/
+
+.WUR-NewVote-Paragraph{
+    text-align: center;
+}
+
+
+span {
+    text-align: center;
+}
+
+h3 { 
+    text-align: center;
+}
+
+.WUR-OR-Paragraph{
+    text-align: center;
+
+}
+
+
+form {
+    text-align: center;
+    align-items: center;
+}
+
+p {
+    font-size: 1.5vw;
+    background: -webkit-linear-gradient(#eee, goldenrod);
+    background-clip: unset;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center
+}
+
+header {
+    font-size: 2.5vw;
+    text-align: center;
+}
+
+
+
+
+/**Inputs**/
+
+input {
+    text-align: center;
+}
+
+.WUR-Option-A-Input{
+    text-align: center;
+    background-color: thistle;
+    animation: forwards;
+}
+
+.WUR-Option-B-Input{
+    text-align: center;
+    background-color: thistle;
+    animation: forwards;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+
+
+
+/* WUR-ERROR-STYLES*/
+
+.WUR-ERROR-404 {
+    text-align: center;
+    font-size: 2.5vw;
+    font-style: italic;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+
+}
+
+
+/**Buttons**/ 
+
+.WUR-Q-Preview-Button{
+    padding: 1rem;
+    background-color: #d3d3d3;
+    background-image: linear-gradient(315deg, #d3d3d3 0%, #57606f 74%);
+    border-radius: 90%;
+    color: black;
+    align-items: center;
+    margin-right: 150px;
+    margin-left: 150px;
+    top: 70vh;
+    
+}
+
+
+.WUR-Q-Preview-Button:hover{
+    background: #CB356B;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #BD3F32, #CB356B);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #BD3F32, #CB356B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 1rem;
+    color: white;
+    border-radius: 90%;
+    align-items: center;
+    top: 70vh;
+    left: 50vh;
+
+}
+
+
+
+label {
+    font-size: 1.5vw;
+    background: -webkit-linear-gradient(#eee, goldenrod);
+    background-clip: unset;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center
+}

@@ -1,0 +1,44 @@
+/*
+ *
+ * CSS written based on SMACSS architecture.
+ * To learn more, visit: http://smacss.com/
+ * 
+ * For simplicity, no reset or normalize is added. 
+ * To learn more, visit: https://css-tricks.com/reboot-resets-reasoning/
+ *
+*/
+
+
+/* ---- Base Rules ---- */
+html {
+}
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: 'Rampart One', cursive;
+}
+
+
+/** Typeography General **/
+
+/* Font-A : Rampart Regular 400 Headers -Titles -<h1>*/
+
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+/*font-family: 'Rampart One', cursive;*/
+
+/* Font-B: Source Sans Pro:<p>*/
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+/*font-family: 'Source Sans Pro', sans-serif*/
+
+
